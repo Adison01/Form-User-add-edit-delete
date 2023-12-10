@@ -1,0 +1,28 @@
+.main {
+  width: 95%;
+  border: 5px solid yellow;
+}
+.wrapper {
+  border: 1px dashed red;
+  display: flex;
+  justify-content: space-between;
+}
+.row {
+  justify-content: space-between;
+  width: 20%;
+}
+.userWrapper {
+  width: 95%;
+  margin: auto;
+  border: 1px dashed green;
+  display: flex;
+  justify-content: space-between;
+}
+.userRow {
+  text-align: left;
+  justify-content: space-between;
+  width: 20%;
+}
+.formUser {
+  margin-top: 20px;
+}

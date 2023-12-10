@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Joe doe ",
+      "city": " New york",
+      "phone": "  88564564556006495"
+    },
+    {
+      "id": 2,
+      "name": "Joe Duy ",
+      "city": " New york",
+      "phone": "  88564564556006495"
+    }
+  ]
+}

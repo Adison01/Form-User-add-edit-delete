@@ -1,0 +1,21 @@
+.wrapper{
+    width: 80%;
+    margin: 80px auto;
+}
+.table {
+    display: flex;
+    justify-content: space-between;
+}
+.heading{
+    width: 25%;
+    font-weight: bold;
+    border: 1px solid #ddd;
+}
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+.cell {
+border: 1px solid #ddd;
+width: 25%;
+}

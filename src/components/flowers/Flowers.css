@@ -1,0 +1,21 @@
+.flowerWrapper {
+  margin-top: 10px;
+  border: 1px solid pink;
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  columns: 20%;
+  padding: 5px;
+}
+
+.flowerData {
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  columns: 20%;
+  border: 1px solid gray;
+}
+form {
+  padding-top: 25px;
+  padding-bottom: 50px;
+}

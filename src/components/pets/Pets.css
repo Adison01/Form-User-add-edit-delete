@@ -1,0 +1,23 @@
+.top-wrapper {
+  width: 95%;
+}
+.pets-header {
+  display: flex;
+  border: 1px solid;
+  justify-content: space-between;
+}
+.pets-header-cell {
+  justify-content: center;
+  justify-content: space-between;
+  width: 30%;
+}
+
+.row {
+  display: flex;
+  border: 1px solid;
+}
+.pets-row-cell {
+  justify-content: center;
+  justify-content: space-between;
+  width: 30%;
+}
